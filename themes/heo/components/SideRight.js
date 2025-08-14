@@ -59,8 +59,8 @@ export default function SideRight(props) {
 
         {rightAreaSlot}
 
-        <FaceBookPage />
-        <Live2D />
+        {/* <FaceBookPage />
+        <Live2D /> */}
 
         {/* 标签和成绩 */}
         <Card
