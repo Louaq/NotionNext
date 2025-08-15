@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '医学图像', url: '/tag/医学图像' },
+  HEO_HERO_CATEGORY_2: { title: '计算机视觉', url: '/tag/计算机视觉' },
+  HEO_HERO_CATEGORY_3: { title: '深度学习', url: '/tag/深度学习' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -59,14 +59,6 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
-      color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
-      color_2: '#ffffff'
-    },
-    {
       title_1: 'Docker',
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
@@ -81,22 +73,6 @@ const CONFIG = {
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
       color_2: '#ffffff'
-    },
-    {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
-      color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
-      color_2: '#8f55ba'
-    },
-    {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
     },
     {
       title_1: 'JS',
